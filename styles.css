@@ -1,0 +1,19 @@
+.link {
+  text-decoration: none;
+  color: red;
+  font-size: 26px;
+  line-height: 1.19;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  color: seagreen;
+  list-style: none;
+}
+a:hover {
+  color: seagreen;
+}
